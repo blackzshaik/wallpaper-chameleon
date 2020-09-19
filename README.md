@@ -11,11 +11,15 @@ This is a simple application to automatically change your wallpaper based on tim
 # How to
 Simply download and Run the code in Android Studio
 
-This is a Alpha Release, will be improved in further releases
+# Known Issuse
+The switch on the front screen is a fake switch, only work for the first time only
+
+This is an alpha release, will be improved in further releases
 
 # Credits
 Photos by Various Artists on [Unsplash](https://unsplash.com/)
-
 Thanks to the community for those wonderful images.
+
+-------------------------------
 
 If you like this app visit my blog https://madtutorial.blogspot.com
